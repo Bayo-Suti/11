@@ -1,1 +1,2 @@
-# 11
+# abuabu
+script auto claim voucher + setpin
